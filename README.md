@@ -13,8 +13,6 @@ To learn how to develop MetaMask-compatible applications, visit our [Developer D
 To learn how to contribute to the MetaMask codebase, visit our [Contributor Docs](https://github.com/MetaMask/contributor-docs).
 
 ## Documentation
-
-- [Architecture](./docs/readme/architecture.md)
 - [Expo Development Environment Setup](./docs/readme/expo-environment.md)
 - [Native Development Environment Setup](./docs/readme/environment.md)
 - [Build Troubleshooting](./docs/readme/troubleshooting.md)
